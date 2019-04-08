@@ -1,0 +1,7 @@
+[package]
+name = "rust_hw"
+version = "0.1.0"
+authors = ["wintermute"]
+edition = "2018"
+
+[dependencies]
